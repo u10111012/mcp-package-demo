@@ -1,19 +1,19 @@
 {
   "name": "mcp-package-demo",
-  "version": "1.0.0",
-  "description": "A demo package for Total TypeScript",
+  "version": "1.0.1",
+  "description": "A demo package for mcp",
   "keywords": [
     "demo",
     "typescript"
   ],
-  "homepage": "https://github.com/mattpocock/tt-package-demo",
+  "homepage": "https://github.com/u10111012/mcp-package-demo",
   "bugs": {
-    "url": "https://github.com/mattpocock/tt-package-demo/issues"
+    "url": "https://github.com/u10111012/mcp-package-demo/issues"
   },
-  "author": "Matt Pocock <team@totaltypescript.com> (https://totaltypescript.com)",
+  "author": "Leo Lin <u10111012@gmail.com> (https://n8nautomate.tech)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mattpocock/tt-package-demo.git"
+    "url": "git@github.com:u10111012/mcp-package-demo.git"
   },
   "files": [
     "dist"
