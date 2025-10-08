@@ -1,0 +1,4 @@
+node_modules
+dist
+.github/workflows/ci.yml
+src/utils.test.ts
